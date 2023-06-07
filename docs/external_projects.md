@@ -5,4 +5,4 @@
 * AI-Powered Video Producer for [Proyecto Cohete - Herramientas para Crear](https://www.youtube.com/watch?v=1Hf79tuVIfM)
 
 ## Recognitions
-* [Top 100](https://blog.start.gg/ssbmrank-2022-100-91-d1b5040756ed) best player in the World at Super Smash Bros. Melee
+* Part of the [Top 100](https://blog.start.gg/ssbmrank-2022-100-91-d1b5040756ed) best players in the World at Super Smash Bros. Melee

@@ -3,3 +3,8 @@ theme:
   name: material
 extra_css:
   - stylesheets/extra.css 
+nav:
+  - Home: index.md
+  - Academic Experience: academic_experience.md
+  - Work Experience: work_experience.md
+  - External Projects: external_projects.md
